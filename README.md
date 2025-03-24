@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋 , Eu sou Rafael Andrade</h1>
+<h1 align="center">Oi 👋 , Eu sou Rafael Freitas</h1>
 <h3 align="center">Minha Paixão Inabalável pela Análise e Ciência de Dados: Desvendando Segredos e Transformando Dados em Conhecimento com Dedicação e Entusiasmo</h3>
 
 - 🌱 Estou estudando Atualmente **Python e Machine Learning**
