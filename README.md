@@ -1,48 +1,65 @@
-<h1 align="center">Oi 👋, Eu sou Rafael Andrade</h1>
-<h3 align="center">Apaixonado por Análise e Ciência de Dados: Transformando dados em conhecimento com dedicação e entusiasmo!</h3>
+<h1 align="center"> 
+  Olá, mundo! 👋 Eu sou Rafael Andrade 
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHo0N2Vzc3FmdTllMnNwdHp6enJkOHhpMmh4dWw3ZmNrazhyZm12dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y3aN4u4jeOpaVrscBb/giphy.gif" width="30px"/> 
+</h1>
 
-- 🌱 Atualmente estou estudando **Python** e **Machine Learning**.
+<h3 align="center">
+  Cientista de Dados em formação | Python | SQL | Power BI | Machine Learning
+</h3>
 
-- 💬 Me pergunte sobre: **SQL, Power BI, Excel, Python e Machine Learning**.
-
-- 📫 Você pode me encontrar através do e-mail: **rafaelvitordeandrade58@gmail.com**.
+<div align="center">
+ 
+</div>
 
 ---
 
-<h3 align="left">Conecte-se comigo:</h3>
+### 🔥 **Destaques**
+- 🌱 **Aprendizado contínuo**: Focado em **Python (Pandas, NumPy, Scikit-learn)** e modelos de **Machine Learning**.
+- 💡 **Hobbies técnicos**: Resolução de problemas no [Kaggle](https://www.kaggle.com/) e criação de dashboards no Power BI.
+- 📊 **Objetivo**: Transformar dados brutos em insights acionáveis com impacto real.
+
+---
+
+### 🛠️ **Tecnologias & Ferramentas**
+#### 📊 **Análise de Dados**
 <p align="left">
-  <a href="https://www.linkedin.com/in/rafael-andrade-1a2680358/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Rafael Andrade" height="30" width="40" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+</p>
+
+#### 🗃️ **Bancos de Dados**
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+#### 📈 **Visualização**
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Tecnologias e Ferramentas:</h3>
-<p align="left">
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="Excel" width="40" height="40"/>
-  </a>
-</p>
 
 ---
 
-<h3 align="left">📈 Estatísticas GitHub:</h3>
+### 📊 **Estatísticas do GitHub**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafael129hash&show_icons=true&theme=radical" alt="Estatísticas" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael129hash&layout=compact&theme=radical" alt="Linguagens" width="45%"/>
+</div>
+
+---
+
+### 📫 **Como me encontrar**
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael129hash&layout=compact&theme=default" alt="Linguagens mais usadas" />
+  <a href="https://www.linkedin.com/in/rafael-andrade-1a2680358/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rafaelvitordeandrade58@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+  </a>
 </p>
